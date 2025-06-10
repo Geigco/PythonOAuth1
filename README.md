@@ -15,4 +15,5 @@ Maybe they can help somebody out.  They are meant to be very simple examples to 
 Find me on LinkedIn or StackOverflow
 
 https://www.linkedin.com/in/jason-geiger/
+
 https://stackoverflow.com/users/517690/jason-geiger
