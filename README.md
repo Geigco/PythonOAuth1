@@ -13,5 +13,6 @@ For now we just do the initial step.
 Maybe they can help somebody out.  They are meant to be very simple examples to show people whom new to a concept.
 
 Find me on LinkedIn or StackOverflow
+
 https://www.linkedin.com/in/jason-geiger/
 https://stackoverflow.com/users/517690/jason-geiger
